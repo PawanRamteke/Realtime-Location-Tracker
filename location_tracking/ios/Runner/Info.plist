@@ -42,7 +42,7 @@
 	<key>io.flutter.embedded_views_preview</key>
 	<true/>
 	<key>GMSApiKey</key>
-	<string>AIzaSyDcCpcOye1PW7OXdQk2AGVdTFEh40p18zg</string>
+	<string><Your API Key></string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>

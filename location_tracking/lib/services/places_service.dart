@@ -5,7 +5,7 @@ import 'package:flutter/foundation.dart';
 
 class PlacesService {
   static const String _baseUrl = 'https://maps.googleapis.com/maps/api/place';
-  static const String _apiKey = 'AIzaSyDcCpcOye1PW7OXdQk2AGVdTFEh40p18zg'; // Replace with your API key
+  static const String _apiKey = '<Your API Key>'; // Replace with your API key
 
   Future<List<Map<String, dynamic>>> searchPlaces(String query) async {
     if (query.isEmpty) return [];
