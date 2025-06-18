@@ -5,6 +5,7 @@
 A comprehensive Flutter application for real-time location tracking with background functionality, store management, and interactive mapping features.
 
 Key Features Summary:
+
 📍 Real-time location tracking
 
 🗺️ Google Maps integration
