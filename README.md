@@ -6,7 +6,11 @@ A comprehensive Flutter application for real-time location tracking with backgro
 
 Key Features Summary:
 📍 Real-time location tracking
+
 🗺️ Google Maps integration
+
 🏪 Store management system
+
 🔄 Background location services
+
 📱 Flutter + GetX architecture
